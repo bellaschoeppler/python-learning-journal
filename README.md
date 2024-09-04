@@ -8,6 +8,6 @@ Goals For This Class
 My First Python Program
 
 
-"""py
+""".py
 print("Hello World!")
 """
